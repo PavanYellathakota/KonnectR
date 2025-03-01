@@ -18,6 +18,8 @@ The application serves as a centralized hub where:
 
 ### User Roles Overview
 ![User Roles Diagram](static/Images//index_page.png)
+![User Roles Diagram](static/Images//User_login.png)
+![User Roles Diagram](static/Images//Admin_login.png)
 
 1. **Students**
    - Search for research projects and job opportunities
