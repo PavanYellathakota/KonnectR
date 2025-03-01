@@ -17,7 +17,7 @@ The application serves as a centralized hub where:
 ## Primary Use Cases & User Roles
 
 ### User Roles Overview
-![User Roles Diagram](static/Images//user_roles.png)
+![User Roles Diagram](static/Images//index_page.png)
 
 1. **Students**
    - Search for research projects and job opportunities
