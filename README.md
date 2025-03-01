@@ -1,6 +1,6 @@
 # KonnectR - Academic & Professional Networking Platform
 
-![KonnectR Logo](/Images/konnectr_logo.png)
+![KonnectR Logo](static/Images/KonnectR_logo.svg)
 
 ## Team Members
 - Pavan Yellathakota - Developer
