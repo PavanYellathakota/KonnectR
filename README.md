@@ -17,7 +17,7 @@ The application serves as a centralized hub where:
 ## Primary Use Cases & User Roles
 
 ### User Roles Overview
-![User Roles Diagram](/img/user_roles.png)
+![User Roles Diagram](static/Images//user_roles.png)
 
 1. **Students**
    - Search for research projects and job opportunities
@@ -46,7 +46,7 @@ The application serves as a centralized hub where:
 ## Database Design
 
 ### Relational Diagram
-![Database Schema](/img/db_schema.png)
+![Database Schema](static/Images//db_schema.png)
 
 ### Key Tables
 - Users
